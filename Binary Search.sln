@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "실전코테3장_부품 찾기", "실전코테3장_부품 찾기\실전코테3장_부품 찾기.vcxproj", "{648C9868-6E00-41C1-8B67-BB149CA9AD62}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "실전코테3장_떡볶이 떡 만들기", "실전코테3장_떡볶이 떡 만들기\실전코테3장_떡볶이 떡 만들기.vcxproj", "{E57BBC9F-FC12-44F5-836D-4CC4928E2AD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{648C9868-6E00-41C1-8B67-BB149CA9AD62}.Release|x64.Build.0 = Release|x64
 		{648C9868-6E00-41C1-8B67-BB149CA9AD62}.Release|x86.ActiveCfg = Release|Win32
 		{648C9868-6E00-41C1-8B67-BB149CA9AD62}.Release|x86.Build.0 = Release|Win32
+		{E57BBC9F-FC12-44F5-836D-4CC4928E2AD3}.Debug|x64.ActiveCfg = Debug|x64
+		{E57BBC9F-FC12-44F5-836D-4CC4928E2AD3}.Debug|x64.Build.0 = Debug|x64
+		{E57BBC9F-FC12-44F5-836D-4CC4928E2AD3}.Debug|x86.ActiveCfg = Debug|Win32
+		{E57BBC9F-FC12-44F5-836D-4CC4928E2AD3}.Debug|x86.Build.0 = Debug|Win32
+		{E57BBC9F-FC12-44F5-836D-4CC4928E2AD3}.Release|x64.ActiveCfg = Release|x64
+		{E57BBC9F-FC12-44F5-836D-4CC4928E2AD3}.Release|x64.Build.0 = Release|x64
+		{E57BBC9F-FC12-44F5-836D-4CC4928E2AD3}.Release|x86.ActiveCfg = Release|Win32
+		{E57BBC9F-FC12-44F5-836D-4CC4928E2AD3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
